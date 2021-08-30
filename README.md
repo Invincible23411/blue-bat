@@ -1,5 +1,5 @@
-Please read this it is very important:
+This is important please read this:
 
-Firstly if this does any damage i am not responsible
-Secondly it is fine to run on any hardware
-Thirdly if it gets annoying restart or end some processes
+How to install go to https://github.com/Invincible23411/blue-bat then click code and then download zip. click the blue.bat then click extract and then run the extracted bat file
+If it gives you any options just say yes
+If there is any problems restart your computer!
