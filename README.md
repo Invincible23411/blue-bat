@@ -1,4 +1,5 @@
-Epic Readme
-Blue bat may delete other user accounts so be careful
-Please download with ur safety
-Also ignore anything it says its not true
+Please read this it is very important:
+
+Firstly if this does any damage i am not responsible
+Secondly it is fine to run on any hardware
+Thirdly if it gets annoying restart or end some processes
