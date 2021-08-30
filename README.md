@@ -1,5 +1,5 @@
-This is important please read this:
+How to Install:
 
-How to install go to https://github.com/Invincible23411/blue-bat then click code and then download zip. click the blue.bat then click extract and then run the extracted bat file
-If it gives you any options just say yes
-If there is any problems restart your computer!
+go to https://github.com/Invincible23411/blue-bat then go to the code section. after that click the green code button and select download zip.
+After it is downloaded open the zip and open blue.bat. if it gives you a message asking to extract all or run select extract all. Extract it to wherever you want and go into that extracted folder and then run it. If you get a poppup saying windows defended your computer click more info then click Run Anyway. After running it will ask you if you want to open a file click yes. Then your all good to go. if you are having any problems then restart your computer! 
+
